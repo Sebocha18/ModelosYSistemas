@@ -1,2 +1,2 @@
-archivo1
+nombre: archivo1
 version: 1
